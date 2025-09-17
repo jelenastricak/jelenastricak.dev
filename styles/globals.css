@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-charcoal text-cream;
+}
+a {
+  @apply text-gold;
+}
+.container {
+  @apply max-w-6xl mx-auto;
+}
+.btn {
+  @apply inline-flex items-center justify-center px-6 py-3 rounded-md transition;
+}
+.btn-primary {
+  @apply bg-gold text-cream hover:bg-bronze;
+}
+.card {
+  @apply bg-blackish border border-bronze rounded-lg overflow-hidden shadow hover:shadow-gold hover:-translate-y-1 transition;
+}
+.input {
+  @apply w-full p-3 bg-charcoal border border-bronze rounded outline-none focus:border-gold;
+}
+.text-muted {
+  @apply text-gold/80;
+}
