@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background -->
+  <rect width="100" height="100" fill="#1A1814" rx="10"/>
+  
+  <!-- Gold border -->
+  <rect x="5" y="5" width="90" height="90" fill="none" stroke="#C9A05C" stroke-width="2" rx="8"/>
+  
+  <!-- JS Text -->
+  <text x="50" y="68" font-family="serif" font-size="48" font-weight="bold" fill="#C9A05C" text-anchor="middle">JS</text>
+</svg>

@@ -43,32 +43,29 @@ export default function Post({ title, date, content, cover, slug, excerpt }: Pos
         publishedTime={publishedTime}
         keywords={keywords}
       />
-      <article className="container px-6 py-16">
-        <header className="mb-8">
-          <h1 className="font-serif text-3xl md:text-4xl mb-4">{title}</h1>
-          <div className="flex items-center gap-4 text-sm text-gold mb-6">
-            <time dateTime={publishedTime}>
-              {new Date(date).toLocaleDateString('en-US', {
-                year: 'numeric',
-                month: 'long',
-                day: 'numeric'
-              })}
-            </time>
-            <span>By Jelena Stricak</span>
+      <article className="bg-charcoal">
+        {/* Hero Section */}
+        <header className="bg-gradient-to-b from-blackish to-charcoal py-16 border-b border-bronze">
+          <div className="container px-6">
+            <h1 className="font-serif text-4xl md:text-5xl mb-6 text-gold">{title}</h1>
+            {cover && (
+              <img
+                src={cover}
+                alt={title}
+                className="w-full max-h-96 object-cover rounded-lg shadow-2xl"
+                loading="lazy"
+              />
+            )}
           </div>
-          {cover && (
-            <img
-              src={cover}
-              alt={title}
-              className="w-full rounded mb-6"
-              loading="lazy"
-            />
-          )}
         </header>
-        <div
-          className="prose prose-invert prose-lg max-w-none prose-headings:text-gold prose-a:text-cream hover:prose-a:text-gold"
-          dangerouslySetInnerHTML={{ __html: content }}
-        />
+        
+        {/* Article Content */}
+        <div className="container px-6 py-12">
+          <div
+            className="prose prose-invert prose-lg max-w-4xl mx-auto prose-headings:text-gold prose-a:text-cream hover:prose-a:text-gold prose-strong:text-gold prose-em:text-cream"
+            dangerouslySetInnerHTML={{ __html: content }}
+          />
+        </div>
 
         {/* Article Schema */}
         <script
@@ -125,15 +122,18 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const firstLine = contentLines[0] || ''
   const fallbackTitle = firstLine.replace(/^#\s*/, '') || slug.replace(/_/g, ' ')
 
+  // Remove H1 title from content to avoid duplication (it's shown in the page header)
+  const contentWithoutTitle = content.replace(/^#\s+.+$/m, '').trim()
+
   // Create excerpt from content
-  const plainTextContent = content.replace(/[#*`]/g, '').replace(/\n+/g, ' ')
+  const plainTextContent = contentWithoutTitle.replace(/[#*`]/g, '').replace(/\n+/g, ' ')
   const excerpt = data.excerpt || plainTextContent.substring(0, 160).trim() + '...'
 
-  const processed = await remark().use(html).process(content)
+  const processed = await remark().use(html).process(contentWithoutTitle)
   return {
     props: {
       title: data.title || fallbackTitle,
-      date: data.date || '2024-01-01',
+      date: data.date || new Date().toISOString().split('T')[0],
       cover: data.cover || null,
       content: processed.toString(),
       slug,

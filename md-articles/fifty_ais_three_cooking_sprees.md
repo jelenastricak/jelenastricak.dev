@@ -1,7 +1,10 @@
+---
+cover: /images/fifty_ais_three_cooking_sprees.png
+---
+
 # Fifty AIs, Three Cooking Sprees, and One Near-Collapse
 
-**Or: How I Tried to Automate My Life and Accidentally Became a Walking
-Temp File**
+*Or: How I Tried to Automate My Life and Accidentally Became a Walking Temp File*
 
 I didn't plan on creating my own personal Doomsday Machine. I only
 wanted to test a few AI tools, make some content, and maybe finish one
@@ -17,9 +20,8 @@ look: *you're on your own with this one.*
 
 This is not a productivity hack. This is a crash report.
 
-------------------------------------------------------------------------
 
-## Too many tools, not enough sanity
+**Too many tools, not enough sanity**
 
 On paper, more tools should equal more power. In reality, they equal
 total paralysis. Every shiny new platform promises salvation: Canva will
@@ -44,9 +46,8 @@ very good fried. (Seven kilos in a week. Don't clap.)\
 - Three "spin doctor" AIs arguing ethics vs. edge while my tour group
 waits in the rain to learn about 17th-century city walls.
 
-------------------------------------------------------------------------
 
-## The tools, rated with sarcasm
+**The tools, rated with sarcasm**
 
 **Nano Banana**\
 Beautiful images at first. By generation three or four it hallucinates
@@ -99,9 +100,8 @@ The carbs of design. Quick, comforting, dopamine-rich --- but not
 nutritious for product UX. Great for social posts, not for building
 products.
 
-------------------------------------------------------------------------
 
-## The painful truth: AI ≠ magic
+**The painful truth: AI ≠ magic**
 
 Every AI I use has an upside and a catastrophic downside. None are
 perfect. The line between something useful and something laughable isn't
@@ -114,9 +114,8 @@ Too many prompts scatter your focus. Too many apps guarantee collapse.
 These weeks of chaos taught me: AI doesn't save you from yourself. It
 accelerates you.
 
-------------------------------------------------------------------------
 
-## Coping strategies (spoiler: they're boring)
+**Coping strategies (spoiler: they're boring)**
 
 To stop imploding, I've been forcing myself into five brutal rules.
 Boring, but effective.
@@ -144,9 +143,8 @@ Roman legion.
 These aren't sexy hacks. They're boring, and they actually stop the
 spirals.
 
-------------------------------------------------------------------------
 
-## The cooking factor
+**The cooking factor**
 
 Let's be clear: I don't order food. Ever. I cook. Exceptionally. My
 problem is panic cuisine: when I'm overwhelmed I turn into a culinary
@@ -163,9 +161,8 @@ you measure it in shipped apps, Claude and I need a family meeting.
 Also, if my Echo tells me one more time to drink a glass of water, I
 might just throw it out the window.
 
-------------------------------------------------------------------------
 
-## Conclusion: collapse with style
+**Conclusion: collapse with style**
 
 Every AI in my arsenal has one foot in brilliance and one foot in
 absurdity. Nano Banana gives beauty until it hallucinates. SuperGrok

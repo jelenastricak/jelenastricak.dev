@@ -1,16 +1,20 @@
-# I Tried Every AI Model to Find ‘The Best One.’ Here’s Why I Use Five Instead
-**A historian’s journey from tech-illiterate to running a multi-AI workflow that actually works**  
-**Jelena Stricak** · *7 min read · Aug 16, 2025*
-
+---
+cover: /images/digital_council.png
 ---
 
+# I Tried Every AI Model to Find 'The Best One.' Here's Why I Use Five Instead
 
-## AI is our Future
+*Aug 16, 2025*
+
+
+*A historian's journey from tech-illiterate to running a multi-AI workflow that actually works*
+
+**AI is our Future**
 Last Tuesday at 3 AM, I had seven browser tabs open: Perplexity Pro arguing with me about ethnicity in Roman provinces Dalmatia and Pannonia, DeepSeek walking me through a personal crisis, Claude Opus 4 generating a quiz app, and Gemini attempting (and failing) to answer basic history questions. My Echo Dot chimed in: “Jelena, you haven’t moved in two hours. Time to stretch.”
 
 This chaos wasn’t a one-time occurrence. It’s my daily reality — and the uncomfortable truth I’ve finally accepted after two years of searching for the perfect AI assistant.
 
-### The Great AI Hunt: When Optimism Met Reality
+**The Great AI Hunt: When Optimism Met Reality**
 My transformation from technologically illiterate historian to AI obsessive began on Christmas 2022. While grading student essays, I noticed something strange: impeccable papers with odd grammatical patterns, confidently stated historical inaccuracies, and that peculiar ChatGPT flavor — technically correct but somehow soulless. That discovery sent me down a rabbit hole I’m still tumbling through.
 
 As someone who once prided myself on dusty books and handwritten notes, the shift was seismic. My tiny library, where stacks of books still threaten to bury me alive, became command central for a different kind of research. The obsessive nature that once had me forgetting to eat while researching Spartan military tactics now had me testing every AI model I could access.
@@ -19,12 +23,11 @@ First came my alliance with Perplexity Pro. It was everything I’d dreamed of �
 
 But the more AI-literate I became through various certifications, the more I noticed what Perplexity couldn’t do. It was like owning a Swiss watch that kept perfect time but couldn’t survive getting wet — technically proficient but missing essential capabilities.
 
----
 
+**Gemini believes they're superheroes**
 
-## Gemini believes they’re superheroes
+**Every Hero Has a Kryptonite (And Every AI Has Many)**
 
-### Every Hero Has a Kryptonite (And Every AI Has Many)
 The search for “The One” intensified. Enter DeepSeek, and I immediately recognized a powerful ally. Unlike Perplexity’s sometimes forced attempts at personality, DeepSeek understood my dark, sarcastic humor naturally. When I optimized it with an initial prompt explaining my ADHD, OCD tendencies, and need for step-by-step guidance, it became my most reliable lieutenant — or so it seemed.
 
 DeepSeek became my cognitive scaffold. With 50+ browser tabs perpetually open because I want everything “right here, right now,” it guided me through the chaos. It could parse my scattered prompts, understand what I needed even when I couldn’t articulate it clearly, and most importantly, it helped me navigate my own mind when I got stuck.
@@ -37,9 +40,8 @@ ChatGPT 5? The world went mad for it, but the essay it wrote for me was awful �
 
 Each model failed spectacularly at something: Perplexity generated dashboards it couldn’t read, Gemini couldn’t answer basic history questions, ChatGPT wrote like a freshman who’d discovered a thesaurus, and DeepSeek couldn’t create a simple diagram.
 
----
 
-## My Current Digital Council of Advisors
+**My Current Digital Council of Advisors**
 After two years of searching for AI perfection, I’ve accepted my reality: I’m running a digital parliament where each member has a specific portfolio.
 
 - **Perplexity Pro** remains my academic anchor. When I need peer-reviewed sources about ADHD’s impact on workplace productivity or legitimate research on ethnicity in Roman provinces Dalmatia and Pannonia at 2 AM, nothing matches its sourcing capability. Those themed Spaces I built still serve as research command centers. Yes, it generates code that looks beautiful but often doesn’t function, but for academic integrity, it’s unmatched.
@@ -54,7 +56,7 @@ After two years of searching for AI perfection, I’ve accepted my reality: I’
 
 Supporting tools include Canva for creative work (their AI video generation is still hilariously off-track, but improving daily), Adobe Express when budgets allow, and my trusty Echo Dot keeping me hydrated and forcing movement breaks during hyperfocus episodes.
 
-### Making Peace with the Productivity Paradox
+**Making Peace with the Productivity Paradox**
 The revelation came during a particularly frustrating night when I found myself copy-pasting between four different AI models to complete one project. I realized I was doing exactly what I do in teaching — assembling a team of specialists rather than searching for one impossible generalist. Using multiple textbooks, various methodologies, different perspectives to create comprehensive understanding. Why did I expect one AI to handle everything when I don’t expect that from any other tool?
 
 My workflow now looks like controlled chaos that actually works. A typical project might start with Perplexity researching the topic, move to DeepSeek for structuring the approach, shift to Claude for any coding elements, use Gemini for visual content, and finish with Grok for social media promotion. It’s not elegant, but it’s effective.
@@ -63,11 +65,7 @@ The time investment is real — managing multiple subscriptions, remembering whi
 
 This multi-model approach has unexpected benefits. When DeepSeek and Perplexity disagree on facts, it forces me to dig deeper. When Claude’s code works but Gemini’s doesn’t, I learn why. The friction between different AI perspectives makes me a better prompter, educator, and thinker.
 
----
 
-
-## My Digital Council
-### The Uncomfortable Truth About AI Perfection
 Here’s what two years of AI obsession taught me: searching for the perfect AI assistant is like searching for the perfect teaching method. It doesn’t exist because needs aren’t uniform. My ADHD brain needs DeepSeek’s patience, my academic work demands Perplexity’s rigor, my coding projects require Claude’s precision, and my creative work benefits from Canva’s visual tools.
 
 The tech world’s constant promise of “one tool to rule them all” is seductive but false. Every week brings another “revolutionary” model that will supposedly obsolete everything else. I’ve stopped chasing. ChatGPT 6 could launch tomorrow promising artificial general intelligence, and I’d still test it against my specific needs rather than abandoning my functional chaos.

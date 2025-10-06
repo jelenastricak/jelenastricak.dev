@@ -47,6 +47,11 @@ export default function SEO({
       <meta name="description" content={description} />
       <meta name="keywords" content={keywords.join(", ")} />
       <link rel="canonical" href={canonical} />
+      
+      {/* Favicon */}
+      <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+      <link rel="alternate icon" href="/favicon.ico" />
+      <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
       {/* Open Graph / Facebook */}
       <meta property="og:type" content={article ? "article" : "website"} />

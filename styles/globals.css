@@ -30,3 +30,46 @@ a {
 .text-muted {
   @apply text-gold/80;
 }
+
+/* Article styling */
+.prose {
+  @apply text-cream;
+}
+
+.prose p {
+  @apply mb-6 leading-relaxed;
+}
+
+.prose em {
+  @apply block text-lg italic not-italic;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  padding-left: 1rem;
+  border-left: 3px solid #C9A05C;
+}
+
+.prose strong {
+  @apply text-gold font-bold;
+  font-size: 1.15em;
+}
+
+.prose h1 + em {
+  margin-top: 2rem;
+}
+
+.prose p + em {
+  margin-top: 2.5rem;
+}
+
+.prose em + p,
+.prose em + strong {
+  margin-top: 2.5rem;
+}
+
+.prose ul {
+  @apply mb-6 space-y-2;
+}
+
+.prose li {
+  @apply leading-relaxed;
+}
